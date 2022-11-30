@@ -3,7 +3,7 @@
 | :placard: Vitrine.Dev |  |
 | -------------  | --- |
 | :sparkles: Nome     | **SQL_FunctionSplitDuplo**
-| :label: Tecnologias | SQL
+| :label: Tecnologias | TSQL
 
 <h2 align="left">Detalhes do projeto</h2>
 
